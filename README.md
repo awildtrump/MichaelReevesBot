@@ -1,4 +1,4 @@
-# Welcome
+# MichaelReevesBot
 Welcome random visitor of one of mankind's greatest creations - The World Wide Web. Welcome to this project site of probably most useless bot in the world.
 
 # Use bot
